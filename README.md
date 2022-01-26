@@ -1,6 +1,6 @@
 
-<meta property="og:title" content="{{website.title}}"/>
-<meta property="og:site_name" content="{{server.domain}}"/>
+<meta property="og:title" content="Giancarlo Ortiz Benavides"/>
+<meta property="og:site_name" content="GiancarloBenavides.github.io"/>
 <meta property="og:url" content="http://www.GiancarloBenavides.github.io/"/>
 <meta property="og:description" content="Profile of Giancarlo, assistant professor of Systems Engineering"/>
 <meta property="og:image" content="http://www.GiancarloBenavides.github.io/logo.jpg"/>
@@ -24,7 +24,7 @@
 
 
 ## Short Bio
-Activist engineer of paragogy, collaborative learning and co-creation with an interest in telematics and communications services, with a knack for solving problems, undertaking projects and learning new technologies. Experience in design, maintenance and auditing of UTP, Coaxial, optical and wireless infrastructure networks; Configuration of computer systems in Windows, Linux, RouterOS and Android. Knowledge in development of embedded systems, control systems and signal conditioning in Arduino, Raspberry, Icestudio, Easyeda, Proteus, Eagle and LabVIEW. Knowledge of languages ​​such as: Python, R, LaTex, C, C++, Matlab, HTML5, CSS3, JS, ASM, Java, PHP, C# and SQL. Experience in designing graphical GUI interfaces in HTML, Tkinter, Visual Basic and MATLAB. Operations management in Git, Docker, AWS and Azure.
+Activist engineer of paragogy, collaborative learning and co-creation with an interest in telematics and communications services, with a knack for solving problems, undertaking projects and learning new technologies. Experience in design, maintenance and auditing of UTP, coaxial, optical and wireless infrastructure networks; configuration of computer systems in Windows, Linux, RouterOS and Android. Knowledge in development of embedded systems, control systems and signal conditioning in Arduino, Raspberry, Icestudio, Easyeda, Proteus, Eagle and LabVIEW. Knowledge of languages such as: Python, R, LaTex, C, C++, MATLAB, HTML5, CSS3, JS, ASM, Java, PHP, C# and SQL. Experience in designing graphical GUI interfaces in HTML/CSS, Tkinter, Visual Basic and MATLAB. Operations management in Git, Docker, AWS and Azure.
 </br></br>
 
 
