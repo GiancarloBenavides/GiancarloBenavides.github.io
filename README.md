@@ -1,14 +1,7 @@
 
-<meta property="og:title" content="Giancarlo Ortiz Benavides"/>
-<meta property="og:site_name" content="GiancarloBenavides.github.io"/>
-<meta property="og:url" content="http://www.GiancarloBenavides.github.io/"/>
-<meta property="og:description" content="Profile of Giancarlo, assistant professor of Systems Engineering"/>
-<meta property="og:image" content="http://www.GiancarloBenavides.github.io/logo.jpg"/>
-
-
-<p align="center"><img src="img/foto.png" alt="drawing" width="200"/></p>
+<p align="center"><img src="./img/foto.png" alt="drawing" width="200"/></p>
 <p align="center">Engineer | Teacher | Researcher | Entrepreneur</p>
-</br></br>
+<br><br>
 
 
 ## Interests
@@ -20,24 +13,24 @@
 - 👯 I’m looking to collaborate on NovaTerra
 - 💬 Ask me about politics and social innovation
 - 📫 you can follow me on Twitter and EasyEDA
-</br></br>
+<br><br>
 
 
 ## Short Bio
 Activist engineer of paragogy, collaborative learning and co-creation with an interest in telematics and communications services, with a knack for solving problems, undertaking projects and learning new technologies. Experience in design, maintenance and auditing of UTP, coaxial, optical and wireless infrastructure networks; configuration of computer systems in Windows, Linux, RouterOS and Android. Knowledge in development of embedded systems, control systems and signal conditioning in Arduino, Raspberry, Icestudio, Easyeda, Proteus, Eagle and LabVIEW. Knowledge of languages such as: Python, R, LaTex, C, C++, MATLAB, HTML5, CSS3, JS, ASM, Java, PHP, C# and SQL. Experience in designing graphical GUI interfaces in HTML/CSS, Tkinter, Visual Basic and MATLAB. Operations management in Git, Docker, AWS and Azure.
-</br></br>
+<br><br>
 
 
 ## Educational
 - BSc in Electronic Engineer (University of Antioquia, Medellin CO)
 - MAD in Master in Design for Social Innovation (University of Nariño, Pasto CO)
 - Teaching in Higher Education (University of Nariño, Pasto CO)
-</br></br>
+<br><br>
 
 
 ## Instructor
 Investigation methodology, Systems Fundamentals, TGS, OYM, Telematics Networks, Computer audit, Numerical methods, Computer Architecture, Legal and Ethical Engineering
-</br></br>
+<br><br>
 
 
 ---
