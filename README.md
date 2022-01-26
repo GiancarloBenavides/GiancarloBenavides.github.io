@@ -10,6 +10,7 @@
 <p align="center">Engineer | Teacher | Researcher | Entrepreneur</p>
 </br></br>
 
+
 ## Interests
 - ⚡ I’m Electronic Engineer
 - 🐍 I'm an Python Evangelist
@@ -21,9 +22,11 @@
 - 📫 you can follow me on Twitter and EasyEDA
 </br></br>
 
+
 ## Short Bio
 Activist engineer of paragogy, collaborative learning and co-creation with an interest in telematics and communications services, with a knack for solving problems, undertaking projects and learning new technologies. Experience in design, maintenance and auditing of UTP, Coaxial, optical and wireless infrastructure networks; Configuration of computer systems in Windows, Linux, RouterOS and Android. Knowledge in development of embedded systems, control systems and signal conditioning in Arduino, Raspberry, Icestudio, Easyeda, Proteus, Eagle and LabVIEW. Knowledge of languages ​​such as: Python, R, LaTex, C, C++, Matlab, HTML5, CSS3, JS, ASM, Java, PHP, C# and SQL. Experience in designing graphical GUI interfaces in HTML, Tkinter, Visual Basic and MATLAB. Operations management in Git, Docker, AWS and Azure.
 </br></br>
+
 
 ## Educational
 - BSc in Electronic Engineer (University of Antioquia, Medellin CO)
@@ -31,9 +34,11 @@ Activist engineer of paragogy, collaborative learning and co-creation with an in
 - Teaching in Higher Education (University of Nariño, Pasto CO)
 </br></br>
 
+
 ## Instructor
 Investigation methodology, Systems Fundamentals, TGS, OYM, Telematics Networks, Computer audit, Numerical methods, Computer Architecture, Legal and Ethical Engineering
 </br></br>
+
 
 ---
 ## Contact
