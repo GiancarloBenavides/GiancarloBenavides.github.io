@@ -1,5 +1,5 @@
 
-<p align="center"><img src="./img/foto.png" alt="drawing" width="200"/></p>
+<p align="center"><img src="./img/photo.png" alt="drawing" width="200"/></p>
 <p align="center">Engineer | Teacher | Researcher | Entrepreneur</p>
 <br><br>
 
