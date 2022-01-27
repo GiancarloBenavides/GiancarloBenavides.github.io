@@ -22,14 +22,15 @@ Activist engineer of paragogy, collaborative learning and co-creation with an in
 
 
 ## Educational
-- BSc in Electronic Engineer (University of Antioquia, Medellin CO)
-- MAD in Master in Design for Social Innovation (University of Nariño, Pasto CO)
-- Teaching in Higher Education (University of Nariño, Pasto CO)
+- BSc in Electronic Engineer (University of Antioquia, Medellin CO).
+- MAD in Master in Design for Social Innovation (University of Nariño, Pasto CO).
+- Teaching in Higher Education (University of Nariño, Pasto CO).
 <br><br>
 
 
 ## Instructor
-Investigation methodology, Systems Fundamentals, TGS, OYM, Telematics Networks, Computer audit, Numerical methods, Computer Architecture, Legal and Ethical Engineering
+Research methodology, Systems theory, TGS, OYM, Telematic networks, computer security
+and Network Auditing, Numerical Methods, Computer Architecture, Legal Engineering and Ethics.
 <br><br>
 
 
