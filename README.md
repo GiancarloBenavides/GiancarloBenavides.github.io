@@ -29,8 +29,8 @@ Activist engineer of paragogy, collaborative learning and co-creation with an in
 
 
 ## Instructor
-Research methodology, Systems theory, TGS, OYM, Telematic networks, computer security
-and Network Auditing, Numerical Methods, Computer Architecture, Legal Engineering and Ethics.
+Research methodology, systems theory, TGS, OYM, telematic networks, computer security.
+and network auditing, numerical methods, computer architecture, legal engineering and ethics.
 <br><br>
 
 
