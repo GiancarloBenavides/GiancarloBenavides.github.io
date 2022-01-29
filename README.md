@@ -4,7 +4,7 @@
 <br><br>
 
 
-## Interests
+## <code></></code> Interests
 - ⚡ I’m Electronic Engineer
 - 🐍 I'm an Python Evangelist
 - 🐶 I'm frenchie lover
@@ -16,26 +16,26 @@
 <br><br>
 
 
-## Short Bio
+## <code></></code> Short Bio
 Activist engineer of paragogy, collaborative learning and co-creation with an interest in telematics and communications services, with a knack for solving problems, undertaking projects and learning new technologies. Experience in design, maintenance and auditing of UTP, coaxial, optical and wireless infrastructure networks; configuration of computer systems in Windows, Linux, RouterOS and Android. Knowledge in development of embedded systems, IoT, control systems and signal processing in Arduino, Raspberry, Icestudio, Easyeda, Proteus, Eagle and LabVIEW. Knowledge of languages such as: Python, R, LaTex, C, C++, MATLAB, HTML5, CSS3, JS, ASM, Java, PHP, C# and SQL. Experience in designing graphical GUI interfaces in HTML/CSS, Tkinter, Visual Basic and MATLAB. Operations management in Git, Docker, AWS and Azure.
 <br><br>
 
 
-## Educational
+## <code></></code> Educational
 - BSc in Electronic Engineer (University of Antioquia, Medellin CO).
 - MAD in Master in Design for Social Innovation (University of Nariño, Pasto CO).
 - Teaching in Higher Education (University of Nariño, Pasto CO).
 <br><br>
 
 
-## Instructor
+## <code></></code> Instructor
 Research methodology, systems theory, TGS, OYM, telematic networks, computer security.
 and network auditing, numerical methods, computer architecture, legal engineering and ethics.
 <br><br>
 
 
 ---
-## Contact
+## <code></></code> Contact
 * [CvLAC][1]
 * Institutional email: [giancarlobenavides@udenar.edu.co][2]
 * Social media: [Twitter][3] - [Zotero][4] - [LinkedIn][5]
