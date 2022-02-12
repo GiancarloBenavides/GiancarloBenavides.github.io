@@ -1,3 +1,11 @@
+<style>
+    :root[data-color-mode=dark] .entry-content [href$="#gh-light-mode-only"], :root[data-color-mode=dark] .comment-body [href$="#gh-light-mode-only"], :root[data-color-mode=dark] .readme [href$="#gh-light-mode-only"] {
+    display: none;
+}
+
+</style>
+
+
 ##  GiancarloBenavides.github.io
 Welcome to GncDev 3.4 LTS (MIT)
 ## <code>>_</code> 
@@ -35,6 +43,45 @@ Research methodology, systems theory, TGS, OYM, telematic networks, computer sec
 and network auditing, numerical methods, computer architecture, legal engineering and ethics.
 <br><br>
 
+## <code></></code> Tools
+<div style="margin:15px;">
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding:5px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" style="padding:5px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding:5px;" />
+</div><br>
+
+
+<div style="margin:15px;">
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:5px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:5px;" />
+<img align="left" alt="JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:5px;" />
+<img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding:5px;" />
+<img align="left" alt="Markdown" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="margin:4px;padding:2px;background:white; border-radius:4px;" />
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding:5px;" />
+<img align="left" alt="Foundation" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-original.svg" style="padding:5px;" />
+<img align="left" alt="Saas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:5px;" />
+<img align="left" alt="Less" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" style="padding:5px;" />
+</div><br>
+
+
+<div style="margin:15px;">
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:5px;" />
+<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding:5px;" />
+<img align="left" alt="Jupyter" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="margin:4px;padding:2px;background:white; border-radius:26px;" />
+<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding:5px;" />
+<img align="left" alt="Pandas" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="margin:4px;padding:2px;background:white; border-radius:4px;" />
+<img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="margin:4px;padding:2px;background:white; border-radius:26px" />
+</div><br>
+
+
+<div style="margin:15px;">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:5px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:5px;" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding:5px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:5px;" />
+<img align="left" alt="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding:5px;" />
+</div>
+<br><br>
 
 ---
 ## <code></></code> Contact
