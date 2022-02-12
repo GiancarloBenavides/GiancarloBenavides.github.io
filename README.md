@@ -1,17 +1,10 @@
-<style>
-    :root[data-color-mode=dark] .entry-content [href$="#gh-light-mode-only"], :root[data-color-mode=dark] .comment-body [href$="#gh-light-mode-only"], :root[data-color-mode=dark] .readme [href$="#gh-light-mode-only"] {
-    display: none;
-}
-
-</style>
+## GiancarloBenavides.github.io
+<p style="margin:-10px;">Welcome to GncDev 3.4 LTS (MIT)</p>
+<code>>_</code> 
 
 
-##  GiancarloBenavides.github.io
-Welcome to GncDev 3.4 LTS (MIT)
-## <code>>_</code> 
 <p align="center"><img src="https://raw.githubusercontent.com/GiancarloBenavides/GiancarloBenavides.github.io/main/img/photo.png" alt="drawing" width="200"/></p>
-<p align="center">Engineer | Teacher | Researcher | Entrepreneur</p>
-<br><br>
+<p align="center">Engineer | Teacher | Researcher | Entrepreneur</p><br><br>
 
 
 ## <code></></code> Interests
@@ -78,7 +71,7 @@ and network auditing, numerical methods, computer architecture, legal engineerin
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:5px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:5px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding:5px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:5px;" />
+<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="margin:4px;padding:2px;background:white; border-radius:4px;" />
 <img align="left" alt="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding:5px;" />
 </div>
 <br><br>
