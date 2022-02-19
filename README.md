@@ -38,41 +38,41 @@ and network auditing, numerical methods, computer architecture, legal engineerin
 
 ## <code></></code> Tools
 <div style="margin:15px;">
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding:5px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" style="padding:5px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding:5px;" />
+<img align="left" alt="HTML5" title="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding:5px;" />
+<img align="left" alt="labVIEW" title="labVIEW" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" style="padding:5px;" />
+<img align="left" alt="MATLAB" title="MATLAB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding:5px;" />
 </div><br>
 
 
 <div style="margin:15px;">
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:5px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:5px;" />
-<img align="left" alt="JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:5px;" />
-<img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding:5px;" />
-<img align="left" alt="Markdown" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="margin:4px;padding:2px;background:white; border-radius:4px;" />
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding:5px;" />
-<img align="left" alt="Foundation" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-original.svg" style="padding:5px;" />
-<img align="left" alt="Saas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:5px;" />
-<img align="left" alt="Less" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" style="padding:5px;" />
+<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:5px;" />
+<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:5px;" />
+<img align="left" alt="JS" title="JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:5px;" />
+<img align="left" alt="Svelte" title="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding:5px;" />
+<img align="left" alt="Markdown" title="Markdown" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="margin:4px;padding:2px;background:white; border-radius:4px;" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding:5px;" />
+<img align="left" alt="Foundation" title="Foundation" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-original.svg" style="padding:5px;" />
+<img align="left" alt="Saas" title="Saas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:5px;" />
+<img align="left" alt="Less" title="Less" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" style="padding:5px;" />
 </div><br>
 
 
 <div style="margin:15px;">
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:5px;" />
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding:5px;" />
-<img align="left" alt="Jupyter" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="margin:4px;padding:2px;background:white; border-radius:26px;" />
-<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding:5px;" />
-<img align="left" alt="Pandas" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="margin:4px;padding:2px;background:white; border-radius:4px;" />
-<img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="margin:4px;padding:2px;background:white; border-radius:26px" />
+<img align="left" alt="Python" title="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:5px;" />
+<img align="left" alt="R" title="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding:5px;" />
+<img align="left" alt="Jupyter" title="Jupyter" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="margin:4px;padding:2px;background:white; border-radius:26px;" />
+<img align="left" alt="Numpy" title="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding:5px;" />
+<img align="left" alt="Pandas" title="Pandas" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="margin:4px;padding:2px;background:white; border-radius:4px;" />
+<img align="left" alt="Flask" title="Flask" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="margin:4px;padding:2px;background:white; border-radius:26px" />
 </div><br>
 
 
 <div style="margin:15px;">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:5px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:5px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding:5px;" />
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="margin:4px;padding:2px;background:white; border-radius:4px;" />
-<img align="left" alt="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding:5px;" />
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:5px;" />
+<img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:5px;" />
+<img align="left" alt="Docker" title="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding:5px;" />
+<img align="left" alt="GitHub" title="GitHub" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="margin:4px;padding:2px;background:white; border-radius:4px;" />
+<img align="left" alt="Bitbucket" title="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding:5px;" />
 </div>
 <br><br>
 
