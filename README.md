@@ -71,6 +71,7 @@ and network auditing, numerical methods, computer architecture, legal engineerin
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:5px;" />
 <img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:5px;" />
 <img align="left" alt="Docker" title="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding:5px;" />
+<img align="left" alt="GitLab" title="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding:5px;" />
 <img align="left" alt="GitHub" title="GitHub" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="margin:4px;padding:2px;background:white; border-radius:4px;" />
 <img align="left" alt="Bitbucket" title="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding:5px;" />
 </div>
