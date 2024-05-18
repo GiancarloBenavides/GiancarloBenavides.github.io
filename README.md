@@ -84,7 +84,9 @@ and network auditing, numerical methods, computer architecture, legal engineerin
 * Social media: [Twitter][3] - [Zotero][4] - [LinkedIn][5]
 * Documents: [Academia][6] - [SlideShare][7]
 * Code: [GitHub][8] - [BitBucket][9] - [GitLab][10]
-* Schemes: [EasyEDA][11]
+* Developer profile: [Cody][11] 
+* Schemes: [EasyEDA][12]
+* Design: [Figma][13]
 
 [1]:https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001637302
 [2]:mailto:giancarlobenavides@udenar.edu.co
@@ -96,4 +98,6 @@ and network auditing, numerical methods, computer architecture, legal engineerin
 [8]:https://github.com/GiancarloBenavides
 [9]:https://bitbucket.org/GiancarloBenavides/
 [10]:https://gitlab.com/GiancarloBenavides
-[11]:https://easyeda.com/giancarlobenavides
+[11]:https://codigofacilito.com/usuarios/Gncdev
+[12]:https://easyeda.com/giancarlobenavides
+[13]:https://www.figma.com/@gncdev
