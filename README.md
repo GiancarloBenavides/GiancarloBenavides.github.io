@@ -83,7 +83,7 @@ and network auditing, numerical methods, computer architecture, legal engineerin
 * Institutional email: [giancarlobenavides@udenar.edu.co][2]
 * Social media: [Twitter][3] - [Zotero][4] - [LinkedIn][5]
 * Documents: [Academia][6] - [SlideShare][7]
-* Code: [GitHub][8] - [BitBucket][9] - [GitLab][10] - [kaggle][11]
+* Code: [GitHub][8] - [BitBucket][9] - [GitLab][10] - [Kaggle][11]
 * Developer profile: [Cody][12] 
 * Schemes: [EasyEDA][13]
 * Design: [Figma][14]
