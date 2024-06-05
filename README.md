@@ -101,5 +101,5 @@ and network auditing, numerical methods, computer architecture, legal engineerin
 [11]:https://www.kaggle.com/gncdev
 [12]:https://codigofacilito.com/usuarios/Gncdev
 [13]:https://www.codecademy.com/profiles/gncdev
-[14]:https://easyeda.com/giancarlobenavides
+[14]:https://oshwlab.com/giancarlobenavides?tab=collection&page=1
 [15]:https://www.figma.com/@gncdev
